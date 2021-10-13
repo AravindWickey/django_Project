@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc3b1ab9-b617-4339-9751-bf59ce28c78a" name="Changes" comment="first commit on this project contains base files.">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/templates/hello.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storefront/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storefront/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="bc3b1ab9-b617-4339-9751-bf59ce28c78a" name="Changes" comment="first commit on this project contains base files." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
